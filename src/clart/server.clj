@@ -14,4 +14,5 @@
 )
 
 (+ 1 2)
+(println "da da da - solnce smeetsa")
 (-main)
